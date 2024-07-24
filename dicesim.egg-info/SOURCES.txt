@@ -1,0 +1,11 @@
+setup.py
+dicesim.egg-info/PKG-INFO
+dicesim.egg-info/SOURCES.txt
+dicesim.egg-info/dependency_links.txt
+dicesim.egg-info/top_level.txt
+src/__init__.py
+src/dice.py
+src/game.py
+tests/__init__.py
+tests/test_dice.py
+tests/test_game.py

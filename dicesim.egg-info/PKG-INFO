@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: dicesim
+Version: 0.1.0
+Summary: This package allow for simulating roles of customised dice
+Author: Piotr Skierkowski
+Author-email: piotrskiera52@gmail.com
+Requires-Python: >=3.6
